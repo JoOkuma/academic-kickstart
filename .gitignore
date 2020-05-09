@@ -1,5 +1,9 @@
 # IDEs
 .idea/
+.vscode/
+
+# osX
+.DS_Store
 
 # Hugo
 resources/
