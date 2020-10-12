@@ -31,7 +31,7 @@ links:
 # - name: Custom Link
 #   url: http://example.org
 url_pdf: https://link.springer.com/chapter/10.1007/978-3-030-13469-3_55
-url_code: 'https://github.com/jookuma/segm'
+url_code: 'https://github.com/pyift/pyift'
 # url_dataset: '#'
 # url_poster: '#'
 # url_project: ''

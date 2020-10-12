@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Undergraduate Researcher at Laboratory of Image Data Science - UNICAMP 
+role: MSc Student at Laboratory of Image Data Science - UNICAMP 
 
 # Organizations/Affiliations
 organizations:
@@ -31,6 +31,9 @@ education:
   - course: BSc in Statistics 
     institution: University of Campinas
     year: 2020
+  - course: MSc in Computer Science 
+    institution: University of Campinas
+    year: Expected 2022
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -65,6 +68,6 @@ user_groups: []
 # - Visitors
 ---
 
-I'm currently in my last year of BSc in Statistics at the University of Campinas, Brazil. I've been researching at [LIDS](https://lids.ic.unicamp.br/) since 2017 under the supervision of [Prof. Alexandre Falcão](https://scholar.google.com/citations?user=HTFEUaUAAAAJ). In 2019-2020 I was fortunate enough to do a winter research internship at [LIGM](http://ligm.u-pem.fr/) under the supervision of [Prof. Laurent Najman](https://scholar.google.com/citations?user=j-2_cT0AAAAJ).
+I'm currently in my first year of MSc in Computer Science at the University of Campinas, Brazil. I've been researching at [LIDS](https://lids.ic.unicamp.br/) since 2017 under the supervision of [Prof. Alexandre Falcão](https://scholar.google.com/citations?user=HTFEUaUAAAAJ). In 2019-2020 I was fortunate enough to do a winter research internship at [LIGM](http://ligm.u-pem.fr/) under the supervision of [Prof. Laurent Najman](https://scholar.google.com/citations?user=j-2_cT0AAAAJ).
 
 Feel free to reach me at [jordao.bragantini@gmail.com](mailto:jordao.bragantini@gmail.com).

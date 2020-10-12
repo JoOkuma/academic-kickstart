@@ -21,6 +21,13 @@ Python module for fast shortest-path operators in image grids and sparse graphs,
 [Documentation](https://pyift.readthedocs.io/en/latest/)
 
 
+# Live-wire Algorithm User Interface
+
+Simple [napari](https://github.com/napari/napari) GUI for interactive image segmentation using the live-wire implementation from [pyift](https://github.com/PyIFT/pyift).
+
+[Github Repository](https://github.com/PyIFT/livewire-gui)
+
+
 # SEGM: Image Segmentation Library
 
 An image segmentation library written from scratch in C++.
