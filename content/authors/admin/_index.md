@@ -18,7 +18,7 @@ organizations:
   url: "https://lids.ic.unicamp.br"
 
 # Short bio (displayed in user profile at end of posts)
-bio: TODO
+# bio:
 
 interests:
 - Interactive Image Segmentation

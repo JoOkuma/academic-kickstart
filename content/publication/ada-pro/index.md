@@ -5,7 +5,7 @@ authors:
 - admin
 - Alexandre Xavier Falcão
 - Clarissa Lin Yasuda
-date: "2019-08-18T00:00:00Z"
+date: 2019-08-18
 doi: "https://doi.org/10.1002/mp.13771"
 
 # Schedule page publish date (NOT publication's date).

@@ -3,7 +3,7 @@ title: "The Role of Optimum Connectivity in Image Segmentation: Can the Algorith
 authors:
 - Alexandre Xavier Falcão
 - admin
-date: "2019-02-23T00:00:00Z"
+date: 2019-02-23
 doi: "https://doi.org/10.1007/978-3-030-14085-4_15"
 
 # Schedule page publish date (NOT publication's date).

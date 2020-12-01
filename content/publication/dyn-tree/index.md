@@ -5,7 +5,7 @@ authors:
 - Samuel Botter Martins
 - Cesar Castelo-Fernandez
 - Alexandre Xavier Falcão
-date: "2019-03-03T00:00:00Z"
+date: 2019-03-03
 doi: "https://doi.org/10.1007/978-3-030-13469-3_55"
 
 # Schedule page publish date (NOT publication's date).
