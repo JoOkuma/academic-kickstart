@@ -28,12 +28,12 @@ interests:
  
 education:
   courses:
-  - course: BSc in Statistics 
-    institution: University of Campinas
-    year: 2020
   - course: MSc in Computer Science 
     institution: University of Campinas
     year: Expected 2022
+  - course: BSc in Statistics 
+    institution: University of Campinas
+    year: 2020
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
