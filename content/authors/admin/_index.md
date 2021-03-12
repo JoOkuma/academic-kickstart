@@ -30,7 +30,7 @@ education:
   courses:
   - course: MSc in Computer Science 
     institution: University of Campinas
-    year: Expected 2022
+    year: Expected 2021
   - course: BSc in Statistics 
     institution: University of Campinas
     year: 2020
@@ -49,6 +49,9 @@ social:
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=m6bPZUsAAAAJ
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/jobragantini
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/jord%C3%A3o-bragantini-634719143
