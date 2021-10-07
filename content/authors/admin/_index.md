@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: MSc Student at Laboratory of Image Data Science - UNICAMP 
+role: Bioimage Scientist at Royerlab - CZ Biohub
 
 # Organizations/Affiliations
 organizations:
@@ -21,9 +21,9 @@ organizations:
 # bio:
 
 interests:
+- Cell Tracking and Segmentation
 - Interactive Image Segmentation
 - Data Annotation
-- Visual Analytics
 - Metric Learning
  
 education:
@@ -71,6 +71,6 @@ user_groups: []
 # - Visitors
 ---
 
-I'm currently in my first year of MSc in Computer Science at the University of Campinas, Brazil. I've been researching at [LIDS](https://lids.ic.unicamp.br/) since 2017 under the supervision of [Prof. Alexandre Falcão](https://scholar.google.com/citations?user=HTFEUaUAAAAJ). In 2019-2020 I was fortunate enough to do a winter research internship at [LIGM](http://ligm.u-pem.fr/) under the supervision of [Prof. Laurent Najman](https://scholar.google.com/citations?user=j-2_cT0AAAAJ).
+I'm currently bioimage scientist at the [Royerlab](https://www.royerlab.org/home) at [CZ Biohub](https://www.czbiohub.org). I obtained my MSc in Computer Science and BSc in Statistics from the University of Campinas, Brazil. During that time, I spent four wonderful years doing research at [LIDS](https://lids.ic.unicamp.br/) under the supervision of [Prof. Alexandre Falcão](https://scholar.google.com/citations?user=HTFEUaUAAAAJ). In 2019-2020, I was fortunate enough to do a winter research internship at [LIGM](http://ligm.u-pem.fr/) under the supervision of [Prof. Laurent Najman](https://scholar.google.com/citations?user=j-2_cT0AAAAJ).
 
 Feel free to reach me at [jordao.bragantini@gmail.com](mailto:jordao.bragantini@gmail.com).
